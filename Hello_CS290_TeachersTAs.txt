@@ -1,0 +1,3 @@
+Hello Everyone
+
+My name is Adina Edwards.  While I am not new to programming, I am new to GIT and am still learning my way around the features.  I can already see how useful this tool (or versioning tools in general) will be and am excited for when using it becomes second nature to me.  In fact, I have already installed the command line tools and will likely be avoiding the GUI the majority of the time.
